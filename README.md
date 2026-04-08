@@ -181,6 +181,8 @@ Open source AI sales agents and frameworks.
 | [GPT-Sales-Assistant](https://github.com/slavakurilyak/gpt-sales-assistant) | GPT-powered sales assistant template. | 200+ |
 | [SalesGPT](https://github.com/filip-michalsky/SalesGPT) | Context-aware AI sales agent using LangChain. | 1.8k+ |
 
+| [SaaS Marketing Agents](https://github.com/shalintripathi/saas-marketing-agents) | 59 specialized AI agent personas for B2B SaaS marketing with CATALYST orchestration framework. | Open source |
+
 ## Agent Frameworks
 
 Build your own AI sales agents with these frameworks.
